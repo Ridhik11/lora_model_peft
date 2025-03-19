@@ -61,7 +61,7 @@ Experiment with other PEFT techniques like Adapters or Prefix Tuning.
 
 Try different models like RoBERTa or DistilBERT.
 
-Use advanced evaluation metrics like precision, recall, and F1-score.
+Use  evaluation metrics like precision, recall, and F1-score.
 
 Acknowledgments
 Hugging Face for the transformers and datasets libraries.
@@ -70,10 +70,5 @@ PEFT for the LoRA implementation.
 
 Udacity for the Generative AI Nanodegree program.
 
-Contact
-For questions or feedback, feel free to reach out:
 
-Name: Ridhik Jeet Singh
-
-Email: ridhik
 
