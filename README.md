@@ -1,7 +1,7 @@
 Fine-tuned BERT using LoRA (PEFT) on 'emotion' dataset from Hugging Face. 'emotion' is a dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise.
 Hence, the sequence classification task as the model will be able to classify emotion (6 labels) of tweets.
 Simply, the project fine-tunes a BERT model using LoRA (Low-Rank Adaptation) for the task of emotion classification on the Emotion dataset. 
-LoRA is type of PEFT technique. 
+LoRA is type of PEFT (Parameter efficient fine tuning) technique. 
 The goal is to adapt a pre-trained BERT model and to increase its accuracy in classifying the text into one of six emotions: joy, sadness, anger, fear, love, or surprise and then compare the performance of the base model and fine-tuned model on the classification task.
 
 Project Overview:
