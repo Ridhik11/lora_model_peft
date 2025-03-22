@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+#UDACITY JUPYTER NOTEBOOK WORKSPACE - DOWNLOAD PYTHON FILE
 
 # # Lightweight Fine-Tuning Project
 
