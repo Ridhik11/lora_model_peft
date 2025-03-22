@@ -4,6 +4,8 @@ Simply, the project fine-tunes a BERT model using LoRA (Low-Rank Adaptation) for
 LoRA is type of PEFT (Parameter efficient fine tuning) technique. 
 The goal is to adapt a pre-trained BERT model and to increase its accuracy in classifying the tweet into one of six emotions: joy, sadness, anger, fear, love, or surprise and then compare the performance of the base model and fine-tuned model on the classification task.
 
+** I have coded the solution on Udacity Jupyter Notebook Workspace and then directly downloaded the file from there. Please go through the code accordingly.**
+
 Project Overview:
 
 -Key Steps
